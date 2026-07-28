@@ -1,5 +1,7 @@
-# Identifying my cats
 
+
+# Identifying my cats
+https://github.com/user-attachments/assets/81d054e3-427a-4223-81b2-eff13eaad875
 Computer vision mini-project, built as a stepping stone toward a home robot project. Goal: given an image or video, detect a cat and identify which cat it is (Rodolfo or Luna) — not just "there's a cat here."
 
 ## Pipeline
